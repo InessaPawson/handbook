@@ -61,17 +61,13 @@ website:
       collapse-level: 1
       align: left
       contents:
-        - section: "Governance"
+        - section: "About Contributor Experience Project"
           contents:
-            - docs/about/governance.qmd
-            - docs/about/contributors.qmd
-            - docs/about/coc.qmd
-            - CONTRIBUTE.md
-        - section: "Vision & History"
-          contents:
-            - docs/about/vision.qmd
+            - docs/about/mission-and-values.qmd
             - docs/about/roadmap.qmd
+            - docs/about/governance.qmd
             - docs/about/team.qmd
+            - docs/about/coc.qmd
             - docs/about/sponsors.qmd
             - docs/about/acknowledgments.qmd
         - section: "Community Handbook"
